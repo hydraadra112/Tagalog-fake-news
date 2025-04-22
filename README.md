@@ -13,7 +13,7 @@ All pretrained models used in the study are available in [this](https://github.c
 
 Parse Tagalog fake news dataset into a pandas dataframe object for ease of use.
 
-```
+```python
 from datasets import load_dataset
 import pandas as pd
 
